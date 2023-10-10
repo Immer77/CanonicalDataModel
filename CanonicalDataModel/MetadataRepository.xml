@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FlightInformation>
+	<Airline>Airline Company Name</Airline>
+	<FlightNo>KLXXX</FlightNo>
+	<Destination>Airport Destination</Destination>
+	<Origin>Origin of the</Origin>
+	<ArrivalDeparture>Arrival/Departure</ArrivalDeparture>
+	<Date>
+		<Day>6</Day>
+		<Month>March</Month>
+		<Year>YYYY</Year>
+	</Date>
+	<Time>1645</Time>
+</FlightInformation>
+
